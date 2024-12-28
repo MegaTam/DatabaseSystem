@@ -1,0 +1,642 @@
+user_id,username,password,role,team
+0,Admin_0,121090506,admin,all
+1,Admin_1,121090506,admin,all
+2,Admin_2,121090506,admin,all
+101,ATL,101,scout,ATL
+102,BOS,102,scout,BOS
+103,BRK,103,scout,BRK
+104,CHI,104,scout,CHI
+105,CHO,105,scout,CHO
+106,CLE,106,scout,CLE
+107,DAL,107,scout,DAL
+108,DEN,108,scout,DEN
+109,DET,109,scout,DET
+110,GSW,110,scout,GSW
+111,HOU,111,scout,HOU
+112,IND,112,scout,IND
+113,LAC,113,scout,LAC
+114,LAL,114,scout,LAL
+115,MEM,115,scout,MEM
+116,MIA,116,scout,MIA
+117,MIL,117,scout,MIL
+118,MIN,118,scout,MIN
+119,NOP,119,scout,NOP
+120,NYK,120,scout,NYK
+121,OKC,121,scout,OKC
+122,ORL,122,scout,ORL
+123,PHI,123,scout,PHI
+124,PHO,124,scout,PHO
+125,POR,125,scout,POR
+126,SAC,126,scout,SAC
+127,SAS,127,scout,SAS
+128,TOR,128,scout,TOR
+129,UTA,129,scout,UTA
+130,WAS,130,scout,WAS
+3463,LeBron James,3463,player,LAL
+3491,Udonis Haslem,3491,player,MIA
+3500,Andre Iguodala,3500,player,GSW
+3585,Chris Paul,3585,player,PHO
+3685,Kyle Lowry,3685,player,MIA
+3698,P.J. Tucker,3698,player,PHI
+3713,Rudy Gay,3713,player,UTA
+3734,Al Horford,3734,player,BOS
+3761,Jeff Green,3761,player,DEN
+3770,Kevin Durant,3770,player,BRK
+3770,Kevin Durant,3770,player,PHO
+3779,Mike Conley,3779,player,UTA
+3779,Mike Conley,3779,player,MIN
+3791,Thaddeus Young,3791,player,TOR
+3801,Brook Lopez,3801,player,MIL
+3810,DeAndre Jordan,3810,player,DEN
+3812,Derrick Rose,3812,player,NYK
+3815,Eric Gordon,3815,player,HOU
+3815,Eric Gordon,3815,player,LAC
+3816,George Hill,3816,player,MIL
+3816,George Hill,3816,player,IND
+3817,Goran Dragi?,3817,player,CHI
+3817,Goran Dragi?,3817,player,MIL
+3824,JaVale McGee,3824,player,DAL
+3830,Kevin Love,3830,player,CLE
+3830,Kevin Love,3830,player,MIA
+3841,Nicolas Batum,3841,player,LAC
+3845,Robin Lopez,3845,player,CLE
+3849,Russell Westbrook,3849,player,LAL
+3849,Russell Westbrook,3849,player,LAC
+3867,Danny Green,3867,player,MEM
+3867,Danny Green,3867,player,CLE
+3872,DeMar DeRozan,3872,player,CHI
+3877,Garrett Temple,3877,player,NOP
+3880,James Harden,3880,player,PHI
+3881,James Johnson,3881,player,IND
+3891,Jrue Holiday,3891,player,MIL
+3898,Patty Mills,3898,player,BRK
+3902,Serge Ibaka,3902,player,MIL
+3903,Stephen Curry,3903,player,GSW
+3905,Taj Gibson,3905,player,WAS
+3914,Wesley Matthews,3914,player,MIL
+3920,Blake Griffin,3920,player,BOS
+3941,Gordon Hayward,3941,player,CHO
+3946,Ish Smith,3946,player,DEN
+3951,John Wall,3951,player,LAC
+3969,Paul George,3969,player,LAC
+3982,Alec Burks,3982,player,DET
+3984,Bismack Biyombo,3984,player,PHO
+3992,Cory Joseph,3992,player,DET
+4023,Jimmy Butler,4023,player,MIA
+4032,Kawhi Leo0rd,4032,player,LAC
+4034,Kemba Walker,4034,player,DAL
+4036,Klay Thompson,4036,player,GSW
+4037,Kyrie Irving,4037,player,BRK
+4037,Kyrie Irving,4037,player,DAL
+4042,Marcus Morris,4042,player,LAC
+4043,Markieff Morris,4043,player,BRK
+4043,Markieff Morris,4043,player,DAL
+4047,Nikola Vu?evi?,4047,player,CHI
+4050,Reggie Jackson,4050,player,LAC
+4050,Reggie Jackson,4050,player,DEN
+4051,Ricky Rubio,4051,player,CLE
+4055,Tobias Harris,4055,player,PHI
+4064,Andre Drummond,4064,player,CHI
+4066,Anthony Davis,4066,player,LAL
+4069,Austin Rivers,4069,player,MIN
+4072,Bradley Beal,4072,player,WAS
+4077,Damian Lillard,4077,player,POR
+4085,Draymond Green,4085,player,GSW
+4086,Evan Fournier,4086,player,NYK
+4089,Harrison Barnes,4089,player,SAC
+4091,Jae Crowder,4091,player,MIL
+4100,Jo0s Valan?i¨±0s,4100,player,NOP
+4102,Justin Holiday,4102,player,ATL
+4102,Justin Holiday,4102,player,DAL
+4107,Khris Middleton,4107,player,MIL
+4116,Meyers Leo0rd,4116,player,MIL
+4124,Patrick Beverley,4124,player,LAL
+4124,Patrick Beverley,4124,player,CHI
+4131,Terrence Ross,4131,player,ORL
+4131,Terrence Ross,4131,player,PHO
+4140,Will Barton,4140,player,WAS
+4140,Will Barton,4140,player,TOR
+4142,Alex Len,4142,player,SAC
+4154,CJ McCollum,4154,player,NOP
+4155,Cody Zeller,4155,player,MIA
+4157,Dennis Schr?der,4157,player,LAL
+4158,Dewayne Dedmon,4158,player,MIA
+4158,Dewayne Dedmon,4158,player,PHI
+4164,Giannis Antetokounmpo,4164,player,MIL
+4167,Gorgui Dieng,4167,player,SAS
+4177,Kelly Olynyk,4177,player,UTA
+4178,Kentavious Caldwell-Pope,4178,player,DEN
+4180,Mason Plumlee,4180,player,CHO
+4180,Mason Plumlee,4180,player,LAC
+4181,Matthew Dellavedova,4181,player,SAC
+4182,Michael Carter-Williams,4182,player,ORL
+4183,Mike Muscala,4183,player,OKC
+4183,Mike Muscala,4183,player,BOS
+4189,Otto Porter Jr.,4189,player,TOR
+4194,Reggie Bullock,4194,player,DAL
+4197,Robert Covington,4197,player,LAC
+4199,Rudy Gobert,4199,player,MIN
+4203,Seth Curry,4203,player,BRK
+4208,Steven Adams,4208,player,MEM
+4209,Tim Hardaway Jr.,4209,player,DAL
+4217,Victor Oladipo,4217,player,MIA
+4219,Aaron Gordon,4219,player,DEN
+4223,Andrew Wiggins,4223,player,GSW
+4224,Bojan Bogdanovi?,4224,player,DET
+4230,Clint Capela,4230,player,ATL
+4237,Doug McDermott,4237,player,SAS
+4239,Dwight Powell,4239,player,DAL
+4245,Gary Harris,4245,player,ORL
+4255,JaMychal Green,4255,player,GSW
+4257,Jerami Grant,4257,player,POR
+4260,Joe Harris,4260,player,BRK
+4261,Joe Ingles,4261,player,MIL
+4265,Jordan Clarkson,4265,player,UTA
+4266,Julius Randle,4266,player,NYK
+4267,Jusuf Nurki?,4267,player,POR
+4271,Kyle Anderson,4271,player,MIN
+4275,Marcus Smart,4275,player,BOS
+4278,Nerlens Noel,4278,player,DET
+4278,Nerlens Noel,4278,player,BRK
+4282,Noah Vonleh,4282,player,BOS
+4291,Spencer Dinwiddie,4291,player,DAL
+4291,Spencer Dinwiddie,4291,player,BRK
+4292,T.J. Warren,4292,player,BRK
+4292,T.J. Warren,4292,player,PHO
+4299,Zach LaVine,4299,player,CHI
+4306,Boban Marjanovi?,4306,player,HOU
+4307,Bobby Portis,4307,player,MIL
+4311,Cameron Payne,4311,player,PHO
+4313,Christian Wood,4313,player,DAL
+4317,D'Angelo Russell,4317,player,MIN
+4317,D'Angelo Russell,4317,player,LAL
+4320,Delon Wright,4320,player,WAS
+4321,Devin Booker,4321,player,PHO
+4325,Frank Kaminsky,4325,player,ATL
+4325,Frank Kaminsky,4325,player,HOU
+4336,Josh Richardson,4336,player,SAS
+4336,Josh Richardson,4336,player,NOP
+4338,Justise Winslow,4338,player,POR
+4339,Karl-Anthony Towns,4339,player,MIN
+4341,Kelly Oubre Jr.,4341,player,CHO
+4342,Kevon Looney,4342,player,GSW
+4343,Kristaps Porzi??is,4343,player,WAS
+4345,Larry 0nce Jr.,4345,player,NOP
+4349,Montrezl Harrell,4349,player,PHI
+4350,Myles Turner,4350,player,IND
+4352,Nikola Joki?,4352,player,DEN
+4353,Norman Powell,4353,player,LAC
+4354,Pat Con0ughton,4354,player,MIL
+4358,Raul Neto,4358,player,CLE
+4359,Richaun Holmes,4359,player,SAC
+4364,Stanley Johnson,4364,player,SAS
+4365,T.J. McConnell,4365,player,IND
+4366,Terry Rozier,4366,player,CHO
+4367,Tha0sis Antetokounmpo,4367,player,MIL
+4369,Trey Lyles,4369,player,SAC
+4370,Tyus Jones,4370,player,MEM
+4379,Brandon Ingram,4379,player,NOP
+4381,Bryn Forbes,4381,player,MIN
+4382,Buddy Hield,4382,player,IND
+4383,Caris LeVert,4383,player,CLE
+4387,Damian Jones,4387,player,LAL
+4387,Damian Jones,4387,player,UTA
+4389,Danuel House Jr.,4389,player,PHI
+4390,Dario ?ari?,4390,player,PHO
+4390,Dario ?ari?,4390,player,OKC
+4392,D¨¡vis Bert¨¡ns,4392,player,DAL
+4394,Dejounte Murray,4394,player,ATL
+4397,Derrick Jones Jr.,4397,player,CHI
+4400,Domantas Sabonis,4400,player,SAC
+4401,Dorian Finney-Smith,4401,player,DAL
+4401,Dorian Finney-Smith,4401,player,BRK
+4403,Fred VanVleet,4403,player,TOR
+4404,Gary Payton II,4404,player,POR
+4404,Gary Payton II,4404,player,GSW
+4405,Georges Niang,4405,player,PHI
+4410,Ivica Zubac,4410,player,LAC
+4412,Jakob Poeltl,4412,player,SAS
+4412,Jakob Poeltl,4412,player,TOR
+4413,Jamal Murray,4413,player,DEN
+4415,Jaylen Brown,4415,player,BOS
+4417,Joel Embiid,4417,player,PHI
+4419,Juancho Her0ng¨®mez,4419,player,TOR
+4421,Kris Dunn,4421,player,UTA
+4424,Malcolm Brogdon,4424,player,BOS
+4426,Malik Beasley,4426,player,UTA
+4426,Malik Beasley,4426,player,LAL
+4437,Pascal Siakam,4437,player,TOR
+4443,Rodney McGruder,4443,player,DET
+4450,Taurean Prince,4450,player,MIN
+4460,Willy Her0ng¨®mez,4460,player,NOP
+4465,Alex Caruso,4465,player,CHI
+4472,Bam Adebayo,4472,player,MIA
+4474,Ben Simmons,4474,player,BRK
+4475,Bogdan Bogdanovi?,4475,player,ATL
+4479,Cedi Osman,4479,player,CLE
+4481,Chris Boucher,4481,player,TOR
+4484,Damion Lee,4484,player,PHO
+4487,Daniel Theis,4487,player,IND
+4488,Davon Reed,4488,player,DEN
+4488,Davon Reed,4488,player,LAL
+4489,De'Aaron Fox,4489,player,SAC
+4490,Dennis Smith Jr.,4490,player,CHO
+4492,Derrick White,4492,player,BOS
+4494,Dillon Brooks,4494,player,MEM
+4495,Donovan Mitchell,4495,player,CLE
+4497,Edmond Sumner,4497,player,BRK
+4500,Frank Ntiliki0,4500,player,DAL
+4501,Furkan Korkmaz,4501,player,PHI
+4515,Jarrett Allen,4515,player,CLE
+4518,Jayson Tatum,4518,player,BOS
+4519,John Collins,4519,player,ATL
+4522,Jo0than Isaac,4522,player,ORL
+4525,Josh Hart,4525,player,POR
+4525,Josh Hart,4525,player,NYK
+4528,Justin Jackson,4528,player,BOS
+4531,Khem Birch,4531,player,TOR
+4532,Kobi Simmons,4532,player,CHO
+4534,Kyle Kuzma,4534,player,WAS
+4535,Lauri Markkanen,4535,player,UTA
+4538,Luke Ken0rd,4538,player,LAC
+4538,Luke Ken0rd,4538,player,MEM
+4539,Luke Kornet,4539,player,BOS
+4541,Malik Monk,4541,player,SAC
+4544,Markelle Fultz,4544,player,ORL
+4547,Maxi Kleber,4547,player,DAL
+4551,Monte Morris,4551,player,WAS
+4555,OG Anunoby,4555,player,TOR
+4557,PJ Dozier,4557,player,SAC
+4560,Royce O'Neale,4560,player,BRK
+4561,Ryan Arcidiacono,4561,player,NYK
+4561,Ryan Arcidiacono,4561,player,POR
+4563,Shaquille Harrison,4563,player,POR
+4565,Sterling Brown,4565,player,LAL
+4568,Thomas Bryant,4568,player,LAL
+4568,Thomas Bryant,4568,player,DEN
+4569,Tony Bradley,4569,player,CHI
+4570,Torrey Craig,4570,player,PHO
+4573,Tyler Dorsey,4573,player,DAL
+4580,Zach Collins,4580,player,SAS
+4582,Aaron Holiday,4582,player,ATL
+4583,Alize Johnson,4583,player,SAS
+4586,Anfernee Simons,4586,player,POR
+4594,Bruce Brown,4594,player,DEN
+4597,Chimezie Metu,4597,player,SAC
+4599,Collin Sexton,4599,player,UTA
+4602,De'Anthony Melton,4602,player,PHI
+4603,Deandre Ayton,4603,player,PHO
+4605,Deonte Burton,4605,player,SAC
+4607,Devonte' Graham,4607,player,NOP
+4607,Devonte' Graham,4607,player,SAS
+4608,Donte DiVincenzo,4608,player,GSW
+4610,Drew Eubanks,4610,player,POR
+4611,Duncan Robinson,4611,player,MIA
+4616,Frank Jackson,4616,player,UTA
+4618,Gary Trent Jr.,4618,player,TOR
+4620,Grayson Allen,4620,player,MIL
+4621,Hamidou Diallo,4621,player,DET
+4623,Haywood Highsmith,4623,player,MIA
+4627,Isaiah Hartenstein,4627,player,NYK
+4630,Jalen Brunson,4630,player,NYK
+4632,Jaren Jackson Jr.,4632,player,MEM
+4634,Jarred Vanderbilt,4634,player,UTA
+4634,Jarred Vanderbilt,4634,player,LAL
+4638,Jevon Carter,4638,player,MIL
+4644,Josh Okogie,4644,player,PHO
+4646,Keita Bates-Diop,4646,player,SAS
+4647,Kenrich Williams,4647,player,OKC
+4648,Kevin Huerter,4648,player,SAC
+4649,Kevin Knox,4649,player,DET
+4649,Kevin Knox,4649,player,POR
+4652,Landry Shamet,4652,player,PHO
+4653,Lonnie Walker IV,4653,player,LAL
+4654,Luka Don?i?,4654,player,DAL
+4656,Marvin Bagley III,4656,player,DET
+4658,Mikal Bridges,4658,player,PHO
+4658,Mikal Bridges,4658,player,BRK
+4661,Mitchell Robinson,4661,player,NYK
+4662,Mo Bamba,4662,player,ORL
+4662,Mo Bamba,4662,player,LAL
+4663,Moritz Wagner,4663,player,ORL
+4667,Robert Williams,4667,player,BOS
+4670,Shai Gilgeous-Alexander,4670,player,OKC
+4671,Shake Milton,4671,player,PHI
+4672,Svi Mykhailiuk,4672,player,NYK
+4672,Svi Mykhailiuk,4672,player,CHO
+4674,Theo Pinson,4674,player,DAL
+4676,Trae Young,4676,player,ATL
+4678,Troy Brown Jr.,4678,player,LAL
+4682,Wendell Carter Jr.,4682,player,ORL
+4684,Yuta Wata0be,4684,player,BRK
+4688,Admiral Schofield,4688,player,ORL
+4690,Amir Coffey,4690,player,LAC
+4692,Bol Bol,4692,player,ORL
+4693,Brandon Clarke,4693,player,MEM
+4695,Bruno Fer0ndo,4695,player,HOU
+4695,Bruno Fer0ndo,4695,player,ATL
+4696,Caleb Martin,4696,player,MIA
+4697,Cam Reddish,4697,player,NYK
+4697,Cam Reddish,4697,player,POR
+4698,Cameron Johnson,4698,player,PHO
+4698,Cameron Johnson,4698,player,BRK
+4702,Chris Silva,4702,player,DAL
+4703,Coby White,4703,player,CHI
+4704,Cody Martin,4704,player,CHO
+4705,Daniel Gafford,4705,player,WAS
+4707,Darius Bazley,4707,player,OKC
+4707,Darius Bazley,4707,player,PHO
+4708,Darius Garland,4708,player,CLE
+4709,De'Andre Hunter,4709,player,ATL
+4710,Dean Wade,4710,player,CLE
+4717,Gabe Vincent,4717,player,MIA
+4718,Garrison Mathews,4718,player,HOU
+4718,Garrison Mathews,4718,player,ATL
+4719,Goga Bitadze,4719,player,IND
+4719,Goga Bitadze,4719,player,ORL
+4720,Grant Williams,4720,player,BOS
+4722,Isaiah Roby,4722,player,SAS
+4723,Ja Morant,4723,player,MEM
+4725,Jalen McDaniels,4725,player,CHO
+4725,Jalen McDaniels,4725,player,PHI
+4727,Jarrell Brantley,4727,player,UTA
+4728,Jarrett Culver,4728,player,ATL
+4729,Javonte Green,4729,player,CHI
+4730,Jaxson Hayes,4730,player,NOP
+4732,Jaylen Nowell,4732,player,MIN
+4734,John Konchar,4734,player,MEM
+4736,Jordan McLaughlin,4736,player,MIN
+4737,Jordan Poole,4737,player,GSW
+4739,Juan Toscano-Anderson,4739,player,LAL
+4739,Juan Toscano-Anderson,4739,player,UTA
+4745,Keldon Johnson,4745,player,SAS
+4746,Kendrick Nunn,4746,player,LAL
+4746,Kendrick Nunn,4746,player,WAS
+4748,Kevin Porter Jr.,4748,player,HOU
+4752,KZ Okpala,4752,player,SAC
+4753,Louis King,4753,player,PHI
+4754,Luguentz Dort,4754,player,OKC
+4755,Luka ?amani?,4755,player,UTA
+4760,Matisse Thybulle,4760,player,PHI
+4760,Matisse Thybulle,4760,player,POR
+4763,Max Strus,4763,player,MIA
+4764,Mfiondu Kabengele,4764,player,BOS
+4766,Michael Porter Jr.,4766,player,DEN
+4768,Moses Brown,4768,player,LAC
+4768,Moses Brown,4768,player,BRK
+4770,0ssir Little,4770,player,POR
+4771,0z Reid,4771,player,MIN
+4772,Nic Claxton,4772,player,BRK
+4773,Nickeil Alexander-Walker,4773,player,UTA
+4773,Nickeil Alexander-Walker,4773,player,MIN
+4777,Oshae Brissett,4777,player,IND
+4778,P.J. Washington,4778,player,CHO
+4782,RJ Barrett,4782,player,NYK
+4783,Romeo Langford,4783,player,SAS
+4784,Rui Hachimura,4784,player,WAS
+4784,Rui Hachimura,4784,player,LAL
+4789,Talen Horton-Tucker,4789,player,UTA
+4791,Terance Mann,4791,player,LAC
+4792,Terence Davis,4792,player,SAC
+4794,Ty Jerome,4794,player,GSW
+4796,Tyler Herro,4796,player,MIA
+4799,Vlatko ?an?ar,4799,player,DEN
+4800,Wenyen Gabriel,4800,player,LAL
+4803,Zion Williamson,4803,player,NOP
+4805,Aaron Nesmith,4805,player,IND
+4806,Aleksej Pokusevski,4806,player,OKC
+4808,Anthony Edwards,4808,player,MIN
+4809,Anthony Gill,4809,player,WAS
+4810,Anthony Lamb,4810,player,GSW
+4817,Chuma Okeke,4817,player,ORL
+4819,Cole Anthony,4819,player,ORL
+4823,Deni Avdija,4823,player,WAS
+4824,Desmond Bane,4824,player,MEM
+4826,Devin Vassell,4826,player,SAS
+4827,Devon Dotson,4827,player,WAS
+4829,Dylan Windler,4829,player,CLE
+4832,Facundo Campazzo,4832,player,DAL
+4837,Immanuel Quickley,4837,player,NYK
+4838,Isaac Okoro,4838,player,CLE
+4839,Isaiah Joe,4839,player,OKC
+4840,Isaiah Stewart,4840,player,DET
+4841,Jaden McDaniels,4841,player,MIN
+4842,Jae'Sean Tate,4842,player,HOU
+4845,Jalen Smith,4845,player,IND
+4846,James Wiseman,4846,player,GSW
+4846,James Wiseman,4846,player,DET
+4847,Jay Scrubb,4847,player,ORL
+4849,Jordan Nwora,4849,player,MIL
+4849,Jordan Nwora,4849,player,IND
+4850,Josh Green,4850,player,DAL
+4854,Kenyon Martin Jr.,4854,player,HOU
+4855,Killian Hayes,4855,player,DET
+4857,Kira Lewis Jr.,4857,player,NOP
+4858,Lamar Stevens,4858,player,CLE
+4859,LaMelo Ball,4859,player,CHO
+4860,Malachi Flynn,4860,player,TOR
+4862,Mamadi Diakite,4862,player,CLE
+4865,0ji Marshall,4865,player,NOP
+4868,0than Knight,4868,player,MIN
+4869,Nick Richards,4869,player,CHO
+4871,Obi Toppin,4871,player,NYK
+4872,Onyeka Okongwu,4872,player,ATL
+4873,Patrick Williams,4873,player,CHI
+4874,Paul Reed,4874,player,PHI
+4875,Payton Pritchard,4875,player,BOS
+4876,Precious Achiuwa,4876,player,TOR
+4877,R.J. Hampton,4877,player,ORL
+4877,R.J. Hampton,4877,player,DET
+4881,Saben Lee,4881,player,PHI
+4881,Saben Lee,4881,player,PHO
+4882,Saddiq Bey,4882,player,DET
+4882,Saddiq Bey,4882,player,ATL
+4883,Sam Merrill,4883,player,CLE
+4885,Skylar Mays,4885,player,POR
+4886,Th¨¦o Maledon,4886,player,CHO
+4887,Tre Jones,4887,player,SAS
+4888,Trent Forrest,4888,player,ATL
+4892,Tyrese Haliburton,4892,player,IND
+4893,Tyrese Maxey,4893,player,PHI
+4894,Udoka Azubuike,4894,player,UTA
+4895,Vernon Carey Jr.,4895,player,WAS
+4897,Xavier Tillman Sr.,4897,player,MEM
+4898,Zeke N0ji,4898,player,DEN
+4900,Aaron Wiggins,4900,player,OKC
+4904,Alperen ?eng¨¹n,4904,player,HOU
+4906,Austin Reaves,4906,player,LAL
+4907,Ayo Dosunmu,4907,player,CHI
+4908,Bones Hyland,4908,player,DEN
+4908,Bones Hyland,4908,player,LAC
+4909,Brandon Boston Jr.,4909,player,LAC
+4911,Braxton Key,4911,player,DET
+4912,Cade Cunningham,4912,player,DET
+4913,Cam Thomas,4913,player,BRK
+4915,Carlik Jones,4915,player,CHI
+4917,Charles Bassey,4917,player,SAS
+4919,Chris Duarte,4919,player,IND
+4920,Corey Kispert,4920,player,WAS
+4922,Daishen Nix,4922,player,HOU
+4923,Dalano Banton,4923,player,TOR
+4924,David Duke Jr.,4924,player,BRK
+4926,Davion Mitchell,4926,player,SAC
+4927,Day'Ron Sharpe,4927,player,BRK
+4929,Duane Washington Jr.,4929,player,PHO
+4930,Eugene Omoruyi,4930,player,OKC
+4930,Eugene Omoruyi,4930,player,DET
+4931,Evan Mobley,4931,player,CLE
+4933,Franz Wagner,4933,player,ORL
+4934,Gabe York,4934,player,IND
+4937,Greg Brown III,4937,player,POR
+4939,Herbert Jones,4939,player,NOP
+4940,Isaiah Jackson,4940,player,IND
+4941,Isaiah Livers,4941,player,DET
+4942,Isaiah Todd,4942,player,WAS
+4943,Ish Wainright,4943,player,PHO
+4944,Jaden Springer,4944,player,PHI
+4946,Jalen Green,4946,player,HOU
+4947,Jalen Johnson,4947,player,ATL
+4948,Jalen Suggs,4948,player,ORL
+4949,James Bouknight,4949,player,CHO
+4952,Jared Butler,4952,player,OKC
+4956,Jay Huff,4956,player,WAS
+4958,Jeff Dowtin,4958,player,TOR
+4959,Jeremiah Robinson-Earl,4959,player,OKC
+4960,Jericho Sims,4960,player,NYK
+4961,Jock Landale,4961,player,PHO
+4962,Joe Wieskamp,4962,player,TOR
+4965,Jo0than Kuminga,4965,player,GSW
+4966,Jordan Goodwin,4966,player,WAS
+4967,Jordan Schakel,4967,player,WAS
+4968,Jose Alvarado,4968,player,NOP
+4969,Josh Christopher,4969,player,HOU
+4970,Josh Giddey,4970,player,OKC
+4971,Joshua Primo,4971,player,SAS
+4972,JT Thor,4972,player,CHO
+4973,Justin Champagnie,4973,player,TOR
+4973,Justin Champagnie,4973,player,BOS
+4974,Kai Jones,4974,player,CHO
+4976,Keon Johnson,4976,player,POR
+4977,Kessler Edwards,4977,player,BRK
+4977,Kessler Edwards,4977,player,SAC
+4979,Leandro Bolmaro,4979,player,UTA
+4980,Lindell Wigginton,4980,player,MIL
+4981,Lindy Waters III,4981,player,OKC
+4982,Luka Garza,4982,player,MIN
+4984,Mac McClung,4984,player,PHI
+4985,Malcolm Hill,4985,player,CHI
+4987,Marko Simonovic,4987,player,CHI
+4988,Matt Ryan,4988,player,LAL
+4988,Matt Ryan,4988,player,MIN
+4989,McKinley Wright IV,4989,player,DAL
+4990,Micah Potter,4990,player,UTA
+4991,Miles McBride,4991,player,NYK
+4992,Moses Moody,4992,player,GSW
+4995,Neemias Queta,4995,player,SAC
+4996,Olivier Sarr,4996,player,OKC
+4997,Omer Yurtseven,4997,player,MIA
+5000,Quentin Grimes,5000,player,NYK
+5003,Sam Hauser,5003,player,BOS
+5004,Sandro Mamukelashvili,5004,player,MIL
+5004,Sandro Mamukelashvili,5004,player,SAS
+5005,Santi Aldama,5005,player,MEM
+5006,Scottie Barnes,5006,player,TOR
+5010,Terry Taylor,5010,player,IND
+5010,Terry Taylor,5010,player,CHI
+5012,Tre Mann,5012,player,OKC
+5014,Trendon Watford,5014,player,POR
+5015,Trevelin Queen,5015,player,IND
+5016,Trey Murphy III,5016,player,NOP
+5018,Usman Garuba,5018,player,HOU
+5019,Vit Krejci,5019,player,ATL
+5020,Xavier Moon,5020,player,LAC
+5021,Xavier Sneed,5021,player,CHO
+5024,Ziaire Williams,5024,player,MEM
+5025,A.J. Green,5025,player,MIL
+5026,A.J. Lawson,5026,player,MIN
+5026,A.J. Lawson,5026,player,DAL
+5027,AJ Griffin,5027,player,ATL
+5028,Alondes Williams,5028,player,BRK
+5029,Andrew Nembhard,5029,player,IND
+5030,Bennedict Mathurin,5030,player,IND
+5031,Blake Wesley,5031,player,SAS
+5032,Bryce McGowens,5032,player,CHO
+5033,Buddy Boeheim,5033,player,DET
+5034,Caleb Houstan,5034,player,ORL
+5035,Chima Moneke,5035,player,SAC
+5036,Christian Braun,5036,player,DEN
+5037,Christian Koloko,5037,player,TOR
+5038,Cole Swider,5038,player,LAL
+5039,Dalen Terry,5039,player,CHI
+5040,Darius Days,5040,player,HOU
+5041,David Roddy,5041,player,MEM
+5042,Dereon Seabron,5042,player,NOP
+5043,Dominick Barlow,5043,player,SAS
+5044,Donovan Williams,5044,player,ATL
+5045,Dru Smith,5045,player,MIA
+5045,Dru Smith,5045,player,BRK
+5046,Dyson Daniels,5046,player,NOP
+5047,Isaiah Mobley,5047,player,CLE
+5048,Jabari Smith Jr.,5048,player,HOU
+5049,Jabari Walker,5049,player,POR
+5050,Jack White,5050,player,DEN
+5051,Jacob Gilyard,5051,player,MEM
+5052,Jaden Hardy,5052,player,DAL
+5053,Jaden Ivey,5053,player,DET
+5054,Jake LaRavia,5054,player,MEM
+5055,Jalen Duren,5055,player,DET
+5056,Jalen Williams,5056,player,OKC
+5057,Jamal Cain,5057,player,MIA
+5058,Jamaree Bouyea,5058,player,MIA
+5058,Jamaree Bouyea,5058,player,WAS
+5059,Jared Rhoden,5059,player,DET
+5060,Jason Preston,5060,player,LAC
+5061,Jaylin Williams,5061,player,OKC
+5062,JD Davison,5062,player,BOS
+5063,Jee0than Williams,5063,player,POR
+5064,Jeremy Sochan,5064,player,SAS
+5065,John Butler,5065,player,POR
+5066,Johnny Davis,5066,player,WAS
+5067,Johnny Juzang,5067,player,UTA
+5068,Jordan Hall,5068,player,SAS
+5069,Josh Minott,5069,player,MIN
+5070,Julian Champagnie,5070,player,PHI
+5070,Julian Champagnie,5070,player,SAS
+5071,Justin Mi0ya,5071,player,POR
+5072,Keegan Murray,5072,player,SAC
+5073,Kendall Brown,5073,player,IND
+5074,Kennedy Chandler,5074,player,MEM
+5075,Kenneth Lofton Jr.,5075,player,MEM
+5076,Keon Ellis,5076,player,SAC
+5077,Kevon Harris,5077,player,ORL
+5078,Lester Quinones,5078,player,GSW
+5079,Malaki Branham,5079,player,SAS
+5080,MarJon Beauchamp,5080,player,MIL
+5081,Mark Williams,5081,player,CHO
+5082,Max Christie,5082,player,LAL
+5083,Michael Foster Jr.,5083,player,PHI
+5084,Moussa Diabat¨¦,5084,player,LAC
+5085,Nikola Jovi?,5085,player,MIA
+5086,Ochai Agbaji,5086,player,UTA
+5087,Orlando Robinson,5087,player,MIA
+5088,Ousmane Dieng,5088,player,OKC
+5089,Paolo Banchero,5089,player,ORL
+5090,Patrick Baldwin Jr.,5090,player,GSW
+5091,Peyton Watson,5091,player,DEN
+5092,Quenton Jackson,5092,player,WAS
+5093,RaiQuan Gray,5093,player,BRK
+5094,Ron Harper Jr.,5094,player,TOR
+5095,Ryan Rollins,5095,player,GSW
+5096,Scotty Pippen Jr.,5096,player,LAL
+5097,Shaedon Sharpe,5097,player,POR
+5098,Simone Fontecchio,5098,player,UTA
+5099,Stanley Umude,5099,player,DET
+5100,Tari Eason,5100,player,HOU
+5101,Trevor Hudgins,5101,player,HOU
+5102,Trevor Keels,5102,player,NYK
+5103,Tyrese Martin,5103,player,ATL
+5104,TyTy Washington Jr.,5104,player,HOU
+5105,Vince Williams Jr.,5105,player,MEM
+5106,Walker Kessler,5106,player,UTA
+5107,Wendell Moore Jr.,5107,player,MIN
+5108,Xavier Cooks,5108,player,WAS
